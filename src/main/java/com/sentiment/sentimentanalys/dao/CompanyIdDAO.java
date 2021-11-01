@@ -1,6 +1,7 @@
-package com.sentiment.sentimentanalysis.dao;
+package com.sentiment.sentimentanalys.dao;
 
-import com.sentiment.sentimentanalysis.models.CompanyId;
+import com.sentiment.sentimentanalys.models.CompanyId;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.stereotype.Repository;

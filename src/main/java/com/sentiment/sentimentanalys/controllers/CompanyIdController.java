@@ -1,8 +1,9 @@
-package com.sentiment.sentimentanalysis.controllers;
+package com.sentiment.sentimentanalys.controllers;
 
-import com.sentiment.sentimentanalysis.dao.CompanyIdDAO;
-import com.sentiment.sentimentanalysis.models.CompanyId;
-import com.sentiment.sentimentanalysis.repository.CompanyIdRepository;
+import com.sentiment.sentimentanalys.dao.CompanyIdDAO;
+import com.sentiment.sentimentanalys.models.CompanyId;
+import com.sentiment.sentimentanalys.repository.CompanyIdRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.sentiment.sentimentanalysis.repository;
+package com.sentiment.sentimentanalys.repository;
 
 public interface CustomCompanyRepository {
 

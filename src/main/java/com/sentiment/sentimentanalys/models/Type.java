@@ -1,4 +1,4 @@
-package com.sentiment.sentimentanalys.model;
+package com.sentiment.sentimentanalys.models;
 
 public enum Type {
     PERSON("Person"),

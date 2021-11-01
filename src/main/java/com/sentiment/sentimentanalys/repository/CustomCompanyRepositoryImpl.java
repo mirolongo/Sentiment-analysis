@@ -1,6 +1,7 @@
-package com.sentiment.sentimentanalysis.repository;
+package com.sentiment.sentimentanalys.repository;
 
-import com.sentiment.sentimentanalysis.models.Company;
+
+import com.sentiment.sentimentanalys.models.Company;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.FindAndModifyOptions;
 import org.springframework.data.mongodb.core.MongoTemplate;

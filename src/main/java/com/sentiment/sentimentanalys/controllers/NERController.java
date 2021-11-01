@@ -1,5 +1,5 @@
-package com.sentiment.sentimentanalys.controller;
-import com.sentiment.sentimentanalys.model.Type;
+package com.sentiment.sentimentanalys.controllers;
+import com.sentiment.sentimentanalys.models.Type;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;

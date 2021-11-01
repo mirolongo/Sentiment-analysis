@@ -1,4 +1,4 @@
-package com.sentiment.sentimentanalysis.models;
+package com.sentiment.sentimentanalys.models;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;

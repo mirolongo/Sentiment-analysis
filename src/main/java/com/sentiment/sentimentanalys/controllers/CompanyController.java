@@ -1,10 +1,14 @@
-package com.sentiment.sentimentanalysis.controllers;
+package com.sentiment.sentimentanalys.controllers;
 
-import com.sentiment.sentimentanalysis.dao.CompanyDAO;
-import com.sentiment.sentimentanalysis.models.Company;
-import com.sentiment.sentimentanalysis.repository.CompanyRepository;
+import com.sentiment.sentimentanalys.dao.CompanyDAO;
+import com.sentiment.sentimentanalys.models.Company;
+import com.sentiment.sentimentanalys.repository.CompanyRepository;
+
+
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.lang.reflect.Field;
@@ -66,5 +70,3 @@ public class CompanyController {
         companyRepository.delete(companyId);
     }
 }
-
-
