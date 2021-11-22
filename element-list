@@ -1,0 +1,8 @@
+com.sentiment.sentimentanalysis
+com.sentiment.sentimentanalysis.api
+com.sentiment.sentimentanalysis.controllers
+com.sentiment.sentimentanalysis.dao
+com.sentiment.sentimentanalysis.models
+com.sentiment.sentimentanalysis.models.dto
+com.sentiment.sentimentanalysis.repository
+com.sentiment.sentimentanalysis.services
